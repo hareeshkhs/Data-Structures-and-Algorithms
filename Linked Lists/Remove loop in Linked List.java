@@ -1,4 +1,6 @@
 /*
+Link: https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1
+
 You are given a linked list of N nodes. Remove the loop from the linked list, if present. 
 Note: X is the position of the node to which the last node is connected to. If it is 0, then there is no loop.
 
