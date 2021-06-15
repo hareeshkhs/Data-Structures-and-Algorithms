@@ -22,7 +22,7 @@ Output:
 3 9 8 7 6 4 2 1
 
 
-/*
+*/
 
 //Initial Template for C++
 
